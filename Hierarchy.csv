@@ -1,0 +1,37 @@
+Employee Name,Employee Designation,Reporting Manager
+Bacong,Analyst,Beatrice
+Beatrice,Sr. Analyst,Fraval
+Carey,Analyst,Beatrice
+Carr,Analyst,Beatrice
+Rahul,Analyst,Daniele
+Crimmings,Analyst,Daniele
+Daniele,Sr. Analyst,Fraval
+Dietrich,Analyst,Johan
+Dunne,Associate,Fancett
+Nisha,Associate,Anu
+Fancett,Sr. Associate,Anu
+Fraval,Analytics Manager,Stephane
+Goble,Associate,Newman
+Harrison,Associate,Fancett
+Huynh,Associate,Newman
+Langford,Sales Executive,Mangal
+Monika,Sales Executive,Mangal
+Lydon,Sr. Associate,Andrew
+Mancuso,Analyst,Fraval
+Mangal,Sales Head,Stephane
+Newman,Sr. Associate,Andrew
+Nowlan,Sales Executive,Mangal
+Patronick,Sales Executive,Mangal
+Peters,Sales Executive,Mangal
+Salter,Sales Executive,Mangal
+Villanueva,Sales Executive,Mangal
+Williams,Sales manager,Mangal
+Charu,Sales manager,Mangal
+Andrew,Operation manager,Chris
+Anu,Operation manager,Chris
+Chris,Operations Head,Stephane
+Johan,Sr. Analyst,Fraval
+Jacob,Sr. Analyst,Fraval
+Saley,Associate,Lydon
+Stephane,CEO,Stephane
+Helen,Associate,Lydon
